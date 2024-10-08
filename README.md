@@ -25,4 +25,4 @@ This is a React Native Local-First App using [PowerSync](https://www.powersync.c
 
 <div style="display: flex; flex-direction: 'row';">
 <img src="./screenshots/app.gif" width=30%>
-</div>
+</div># react-native-local-first

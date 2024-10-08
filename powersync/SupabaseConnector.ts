@@ -4,7 +4,6 @@ import {
   PowerSyncBackendConnector,
   UpdateType,
 } from '@powersync/react-native';
-
 import { SupabaseClient, createClient } from '@supabase/supabase-js';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import 'react-native-url-polyfill/auto';

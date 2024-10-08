@@ -2,6 +2,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { Stack } from 'expo-router';
 import { TouchableOpacity } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
+
 import { useSystem } from '~/powersync/PowerSync';
 
 const Layout = () => {
